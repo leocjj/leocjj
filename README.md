@@ -1,4 +1,8 @@
-
+<p>
+	<a href="https://github.com/leocjj"><img src="https://img.shields.io/github/followers/jahirfiquitiva.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/leocj"><img src="https://img.shields.io/twitter/follow/jahirfiquitiva?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/leonardocj"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 ### About me
 Software Engineer with experience also as a Project Manager and STEM Professor, onsite and remotely, goal-oriented, with skills and strengths to enhance teams, processes, and businesses.
 
