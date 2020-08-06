@@ -1,4 +1,8 @@
-### Hi there 👋
+
+### About me
+Software Engineer with experience also as a Project Manager and STEM Professor, onsite and remotely, goal-oriented, with skills and strengths to enhance teams, processes, and businesses.
+
+Interested in high-level language applications especially Python, Data Analysis and become a Machine Learning expert and Data Scientist.
 
 <!--
 **leocjj/leocjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
