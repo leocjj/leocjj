@@ -2,6 +2,8 @@
 	<a href="https://www.linkedin.com/in/leonardocj" target="blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
+- 🌱 I’m currently learning CSSLP certification from ISC2, Go programming languange, and Agentic AI.
+
 # About me
 
 I am a cross-disciplinary industry consultant working at the intersection of emerging technologies, complex engineering systems, and cybersecurity. My background in mechatronics and more than two decades of experience across pharmaceutical manufacturing, safety engineering, software development, and advanced computing give me a strong systems-level perspective for solving modern technological challenges.
@@ -22,8 +24,7 @@ Outside of work, I am a husband and the father of Isaac and Amelia. I enjoy moun
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
