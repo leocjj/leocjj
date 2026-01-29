@@ -2,7 +2,7 @@
 	<a href="https://www.linkedin.com/in/leonardocj" target="blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-- 🌱 I’m currently learning CSSLP certification from ISC2, Go programming languange, and Agentic AI.
+- 🌱 I’m currently learning CSSLP certification from ISC2, Rust programming languange, and Agentic AI.
 
 # About me
 
